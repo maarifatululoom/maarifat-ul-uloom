@@ -283,3 +283,9 @@ fieldset.field { border: 0; margin: 0; min-width: 0; padding: 0; }
 .nav li:has(>a[href="about#how-it-works"]),.nav li:has(>a[href="about#faq"]){display:none}
 footer li>a{display:inline-flex;align-items:center;min-height:44px}
 footer .social-btn{min-width:44px;min-height:44px}
+
+/*cta-band*/
+.cta-band{background:var(--bg-alt,#F3E7CF);padding:28px 0;border-block:1px solid rgba(122,92,30,.2)}
+.cta-band__in{display:flex;flex-wrap:wrap;gap:14px;align-items:center;justify-content:center;text-align:center}
+.cta-band p{margin:0;font-weight:600;font-size:1.05rem;color:#3d2e0c;flex:1 1 280px;max-width:520px}
+.section:not(.theme-dark) .label,.cta-band .label{color:#5E4514}
