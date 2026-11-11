@@ -103,12 +103,11 @@
 
       courses: [
         { id: "noorani-qaida", title: "Noorani Qaida", category: "quran-studies", tag: "Quran Studies", icon: "book", desc: "The essential first step: master Arabic letters, correct pronunciation, and reading fundamentals before moving into the Qur'an itself." },
-        { id: "quran-reading", title: "Quran Reading", category: "quran-studies", tag: "Quran Studies", icon: "book-open", desc: "Build fluency and confidence reading the Qur'an with proper pronunciation, at a pace suited to your level." },
+        { id: "quran-reading", title: "Nazra Quran", category: "quran-studies", tag: "Quran Studies", icon: "book-open", desc: "Build fluency and confidence reading the Qur'an with proper pronunciation, at a pace suited to your level." },
         { id: "tajweed", title: "Tajweed", category: "quran-studies", tag: "Quran Studies", icon: "music", desc: "Learn the precise rules of recitation to read the Qur'an as it was revealed: beautifully, correctly, and with understanding." },
-        { id: "hifz-support", title: "Hifz Support", category: "quran-studies", tag: "Quran Studies", icon: "map-pin", desc: "Structured memorization guidance with regular revision cycles, designed to build lasting retention, not just short-term recall." },
-        { id: "islamic-studies", title: "Islamic Studies", category: "islamic-studies", tag: "Islamic Studies", icon: "user", desc: "Explore Aqeedah, Seerah, Fiqh, and daily practice, grounding knowledge in real, applicable understanding." },
-        { id: "arabic-language", title: "Arabic Language", category: "language-learning", tag: "Language Learning", icon: "globe", desc: "Learn to read, write, and understand Arabic, the language of the Qur'an, from foundational grammar to comprehension." },
-        { id: "english-language", title: "English Language", category: "language-learning", tag: "Language Learning", icon: "file-text", desc: "Structured English learning to support academic and communication skills alongside Islamic education." }
+        { id: "hifz-support", title: "Hifz-ul-Quran", category: "quran-studies", tag: "Quran Studies", icon: "map-pin", desc: "Structured memorization guidance with regular revision cycles, designed to build lasting retention, not just short-term recall." },
+        { id: "tafseer", title: "Tafseer", category: "islamic-studies", tag: "Islamic Studies", icon: "book-open", desc: "Understand the meaning and message of the Qur'an through guided explanation of its verses, so that reading turns into understanding." },
+        { id: "hadith-40", title: "40 Hadith Memorization in 40 Days", category: "islamic-studies", tag: "Islamic Studies", icon: "book", desc: "Memorize 40 well-known hadith in 40 days, with their meanings and regular revision, one hadith at a time." }
       ],
 
       testimonials: [
@@ -131,7 +130,7 @@
         { q: "What if my class schedule needs to change?", a: "Reach out to reschedule in advance and we'll find a slot that fits." },
         { q: "What if I don't like the assigned teacher?", a: "Let us know and we'll happily arrange a switch." },
         { q: "How is Hifz progress tracked?", a: "Through a structured revision cycle with regular assessments of new memorization and retention." },
-        { q: "Do you teach Tajweed as a separate course?", a: "Yes, and its principles are also woven into our Quran Reading and Hifz courses." },
+        { q: "Do you teach Tajweed as a separate course?", a: "Yes, and its principles are also woven into our Nazra Quran and Hifz courses." },
         { q: "What equipment do I need for online classes?", a: "Just a stable internet connection and a device with a camera and microphone." },
         { q: "Do you offer classes for complete beginners?", a: "Absolutely, our Noorani Qaida course is designed for absolute beginners." },
         { q: "Are classes available in different time zones?", a: "Yes, we teach across many countries and schedule classes at realistic times for your location." },
