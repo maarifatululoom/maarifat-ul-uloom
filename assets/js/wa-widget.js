@@ -26,7 +26,7 @@
         '<span class="wa__av wa__av--m" aria-hidden="true">M</span><span><strong>Male teacher</strong><small>Boys · ' + local(male) + '</small></span>' + waIcon + '</a>' +
       '<a class="wa__opt" data-wa-num="' + female + '" target="_blank" rel="noopener" href="https://wa.me/' + female + '?text=' + text + '">' +
         '<span class="wa__av wa__av--f" aria-hidden="true">F</span><span><strong>Female teacher</strong><small>Girls · ' + local(female) + '</small></span>' + waIcon + '</a>' +
-      '<a class="wa__form" href="https://apply.maarifat-ul-uloom-academy.com/" target="_blank" rel="noopener" >Apply online in our <strong>academy app</strong> &rarr;</a>' +
+      '<a class="wa__form" href="/admission" target="_blank" rel="noopener" >Apply online in our <strong>academy app</strong> &rarr;</a>' +
       '<p class="wa__note">We usually reply within a few hours.</p>' +
     '</div>' +
     '<button type="button" class="wa__fab" aria-expanded="false" aria-controls="wa-panel">' + waIcon + '<span class="wa__label">WhatsApp</span></button>';
