@@ -289,3 +289,6 @@ footer .social-btn{min-width:44px;min-height:44px}
 .cta-band__in{display:flex;flex-wrap:wrap;gap:14px;align-items:center;justify-content:center;text-align:center}
 .cta-band p{margin:0;font-weight:600;font-size:1.05rem;color:#3d2e0c;flex:1 1 280px;max-width:520px}
 .section:not(.theme-dark) .label,.cta-band .label{color:#5E4514}
+
+/*pin-short*/
+.pathway__pin.is-pinned{height:calc(100vh + 120vh)}
