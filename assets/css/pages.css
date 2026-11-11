@@ -292,3 +292,9 @@ footer .social-btn{min-width:44px;min-height:44px}
 
 /*pin-short*/
 .pathway__pin.is-pinned{height:calc(100vh + 120vh)}
+
+/*ux2*/
+footer a{min-height:44px!important;display:inline-flex;align-items:center}
+.btn--whatsapp{background:#0B6B3A!important;color:#fff!important}
+.btn--whatsapp:hover{background:#085530!important}
+.hero__points li{font-size:1rem;color:#F3E7CF}
