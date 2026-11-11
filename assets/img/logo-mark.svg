@@ -1,0 +1,13 @@
+<svg width="72" height="72" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Maarifat-ul-Uloom Academy emblem placeholder">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E8D8B5"/>
+      <stop offset="100%" stop-color="#D8BE8A"/>
+    </linearGradient>
+  </defs>
+  <circle cx="36" cy="36" r="34.5" fill="none" stroke="url(#goldGrad)" stroke-width="1.4"/>
+  <g fill="none" stroke="url(#goldGrad)" stroke-width="1.1" opacity="0.9">
+    <path d="M36 10 L45 27 L64 27 L48.5 38.5 L54.5 57 L36 46 L17.5 57 L23.5 38.5 L8 27 L27 27 Z"/>
+  </g>
+  <text x="36" y="42" font-family="Cinzel, serif" font-size="15" fill="url(#goldGrad)" text-anchor="middle" font-weight="600">MU</text>
+</svg>
