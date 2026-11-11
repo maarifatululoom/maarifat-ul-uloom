@@ -298,3 +298,7 @@ footer a{min-height:44px!important;display:inline-flex;align-items:center}
 .btn--whatsapp{background:#0B6B3A!important;color:#fff!important}
 .btn--whatsapp:hover{background:#085530!important}
 .hero__points li{font-size:1rem;color:#F3E7CF}
+
+/*ux3*/
+.btn--whatsapp,.theme-dark .btn--whatsapp,.ready .btn--whatsapp{background:#0B6B3A!important;color:#fff!important}
+.btn--whatsapp:hover,.theme-dark .btn--whatsapp:hover,.ready .btn--whatsapp:hover{background:#085530!important}
