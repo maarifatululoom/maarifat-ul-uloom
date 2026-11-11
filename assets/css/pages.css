@@ -278,3 +278,8 @@ fieldset.field { border: 0; margin: 0; min-width: 0; padding: 0; }
 }
 @keyframes ph-in { from { opacity: 0; transform: scale(1.04); } }
 @media (prefers-reduced-motion: reduce) { .page-hero__photo img { animation: none; } }
+
+/*ux-polish*/
+.nav li:has(>a[href="about#how-it-works"]),.nav li:has(>a[href="about#faq"]){display:none}
+footer li>a{display:inline-flex;align-items:center;min-height:44px}
+footer .social-btn{min-width:44px;min-height:44px}
